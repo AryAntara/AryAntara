@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-25T20:40:20.278Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="nZB28sz_iCL-lue6UUdG" version="22.1.11" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-12-25T20:46:22.817Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="9nu61hUyksswiGaV8YXR" version="22.1.11" type="github" pages="3">
   <diagram name="Register" id="b1NcTZ1_CclIdPvHx7So">
     <mxGraphModel dx="920" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -355,17 +355,17 @@
     </mxGraphModel>
   </diagram>
   <diagram id="TtpFwJs_ak_18OsZ2q9E" name="Add Word By User">
-    <mxGraphModel dx="920" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1770" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2CuYV79ly14Wgk4LOwbP-1" value="Pengguna" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="120" width="30" height="60" as="geometry" />
+          <mxGeometry x="-10" y="120" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2CuYV79ly14Wgk4LOwbP-2" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="50" y="210" width="10" height="390" as="geometry" />
+          <mxGeometry y="210" width="10" height="390" as="geometry" />
         </mxCell>
-        <mxCell id="2CuYV79ly14Wgk4LOwbP-3" value="1. Menekan tombol login" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;" edge="1" parent="1" source="2CuYV79ly14Wgk4LOwbP-2">
+        <mxCell id="2CuYV79ly14Wgk4LOwbP-3" value="1. Menekan ikon tambah&amp;nbsp;" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;" edge="1" parent="1" source="2CuYV79ly14Wgk4LOwbP-2">
           <mxGeometry width="60" relative="1" as="geometry">
             <mxPoint x="10" y="390" as="sourcePoint" />
             <mxPoint x="250" y="240" as="targetPoint" />
@@ -383,7 +383,7 @@
         <mxCell id="2CuYV79ly14Wgk4LOwbP-7" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="495" y="200" width="10" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="2CuYV79ly14Wgk4LOwbP-8" value="2. Request&amp;nbsp; Halaman Login" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;" edge="1" parent="1" source="2CuYV79ly14Wgk4LOwbP-4" target="2CuYV79ly14Wgk4LOwbP-7">
+        <mxCell id="2CuYV79ly14Wgk4LOwbP-8" value="2. Request&amp;nbsp; Halaman tambah data" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;" edge="1" parent="1" source="2CuYV79ly14Wgk4LOwbP-4" target="2CuYV79ly14Wgk4LOwbP-7">
           <mxGeometry x="0.0043" width="60" relative="1" as="geometry">
             <mxPoint x="260" y="260" as="sourcePoint" />
             <mxPoint x="440" y="270" as="targetPoint" />
@@ -393,7 +393,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2CuYV79ly14Wgk4LOwbP-9" value="3. Mengembalikan Tampilan halaman Login" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="2CuYV79ly14Wgk4LOwbP-9" value="3. Mengembalikan Tampilan halaman tambah data" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry x="0.0043" width="60" relative="1" as="geometry">
             <mxPoint x="495" y="290" as="sourcePoint" />
             <mxPoint x="260" y="290" as="targetPoint" />
@@ -401,7 +401,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2CuYV79ly14Wgk4LOwbP-10" value="4. Menampilkan halaman Login" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;" edge="1" parent="1" source="2CuYV79ly14Wgk4LOwbP-4" target="2CuYV79ly14Wgk4LOwbP-2">
+        <mxCell id="2CuYV79ly14Wgk4LOwbP-10" value="4. Menampilkan halaman tambah data" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;" edge="1" parent="1" source="2CuYV79ly14Wgk4LOwbP-4" target="2CuYV79ly14Wgk4LOwbP-2">
           <mxGeometry x="0.0105" width="60" relative="1" as="geometry">
             <mxPoint x="250" y="310" as="sourcePoint" />
             <mxPoint x="70" y="310" as="targetPoint" />
@@ -421,7 +421,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2CuYV79ly14Wgk4LOwbP-12" value="6. Menekan tombol submit" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="2CuYV79ly14Wgk4LOwbP-12" value="6. Menekan tombol submit" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;" edge="1" parent="1" source="2CuYV79ly14Wgk4LOwbP-2">
           <mxGeometry x="0.0054" width="60" relative="1" as="geometry">
             <mxPoint x="60" y="390" as="sourcePoint" />
             <mxPoint x="250" y="390" as="targetPoint" />
@@ -461,7 +461,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2CuYV79ly14Wgk4LOwbP-17" value="11. Masukan Ulang data" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="2CuYV79ly14Wgk4LOwbP-17" value="11. Masukan Ulang data" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;" edge="1" parent="1" target="2CuYV79ly14Wgk4LOwbP-2">
           <mxGeometry x="0.0083" width="60" relative="1" as="geometry">
             <mxPoint x="250" y="540" as="sourcePoint" />
             <mxPoint x="60" y="540" as="targetPoint" />
