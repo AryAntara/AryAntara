@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-25T20:46:22.817Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="9nu61hUyksswiGaV8YXR" version="22.1.11" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-12-25T20:48:02.643Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="d4m_FGp6PSMwAflRoDvX" version="22.1.11" type="github" pages="3">
   <diagram name="Register" id="b1NcTZ1_CclIdPvHx7So">
     <mxGraphModel dx="920" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -411,8 +411,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2CuYV79ly14Wgk4LOwbP-11" value="5. Mengisi form login" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;" edge="1" parent="1" source="2CuYV79ly14Wgk4LOwbP-2" target="2CuYV79ly14Wgk4LOwbP-4">
-          <mxGeometry x="0.0054" width="60" relative="1" as="geometry">
+        <mxCell id="2CuYV79ly14Wgk4LOwbP-11" value="5. Mengisi form tambah data" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;" edge="1" parent="1" source="2CuYV79ly14Wgk4LOwbP-2" target="2CuYV79ly14Wgk4LOwbP-4">
+          <mxGeometry x="0.0083" width="60" relative="1" as="geometry">
             <mxPoint x="260" y="340" as="sourcePoint" />
             <mxPoint x="140" y="390" as="targetPoint" />
             <Array as="points">
@@ -431,7 +431,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2CuYV79ly14Wgk4LOwbP-13" value="7. Mengirimkan kredensial user" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;" edge="1" parent="1" target="2CuYV79ly14Wgk4LOwbP-7">
+        <mxCell id="2CuYV79ly14Wgk4LOwbP-13" value="7. Mengirimkan data kata baru" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;" edge="1" parent="1" target="2CuYV79ly14Wgk4LOwbP-7">
           <mxGeometry x="0.0043" width="60" relative="1" as="geometry">
             <mxPoint x="260" y="390" as="sourcePoint" />
             <mxPoint x="450" y="390" as="targetPoint" />
@@ -453,10 +453,10 @@
         </mxCell>
         <mxCell id="2CuYV79ly14Wgk4LOwbP-16" value="10. Data pengguna kosong" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry x="0.0043" width="60" relative="1" as="geometry">
-            <mxPoint x="495" y="480" as="sourcePoint" />
-            <mxPoint x="260" y="480" as="targetPoint" />
+            <mxPoint x="495" y="460" as="sourcePoint" />
+            <mxPoint x="260" y="460" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="420" y="480" />
+              <mxPoint x="420" y="460" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
@@ -473,10 +473,10 @@
         </mxCell>
         <mxCell id="2CuYV79ly14Wgk4LOwbP-18" value="10. Mengirimkan pesan error" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry x="0.0043" width="60" relative="1" as="geometry">
-            <mxPoint x="495" y="510" as="sourcePoint" />
-            <mxPoint x="260" y="510" as="targetPoint" />
+            <mxPoint x="495" y="500" as="sourcePoint" />
+            <mxPoint x="260" y="500" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="420" y="510" />
+              <mxPoint x="420" y="500" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
@@ -487,24 +487,22 @@
         <mxCell id="2CuYV79ly14Wgk4LOwbP-20" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="685" y="200" width="10" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="2CuYV79ly14Wgk4LOwbP-21" value="12. Data pengguna ada" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;" edge="1" parent="1" source="2CuYV79ly14Wgk4LOwbP-4" target="2CuYV79ly14Wgk4LOwbP-7">
+        <mxCell id="2CuYV79ly14Wgk4LOwbP-21" value="12. Data pengguna ada" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry x="0.0043" width="60" relative="1" as="geometry">
-            <mxPoint x="320" y="570" as="sourcePoint" />
-            <mxPoint x="410" y="580" as="targetPoint" />
+            <mxPoint x="260" y="540" as="sourcePoint" />
+            <mxPoint x="495" y="540" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="330" y="550" />
-              <mxPoint x="380" y="550" />
+              <mxPoint x="330" y="540" />
+              <mxPoint x="380" y="540" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2CuYV79ly14Wgk4LOwbP-22" value="8. Memeriksa user di database" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="2CuYV79ly14Wgk4LOwbP-22" value="8. Mevalidasi data&amp;nbsp;" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry x="0.0043" width="60" relative="1" as="geometry">
             <mxPoint x="260" y="420" as="sourcePoint" />
             <mxPoint x="495" y="420" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="380" y="420" />
-            </Array>
+            <Array as="points" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -515,16 +513,6 @@
         </mxCell>
         <mxCell id="2CuYV79ly14Wgk4LOwbP-24" value="&lt;br&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2CuYV79ly14Wgk4LOwbP-22">
           <mxGeometry x="-0.4621" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2CuYV79ly14Wgk4LOwbP-25" value="9. mengambil data user" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;" edge="1" parent="1" source="2CuYV79ly14Wgk4LOwbP-20" target="2CuYV79ly14Wgk4LOwbP-7">
-          <mxGeometry x="0.0043" width="60" relative="1" as="geometry">
-            <mxPoint x="695" y="446" as="sourcePoint" />
-            <mxPoint x="460" y="446" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="620" y="446" />
-            </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
