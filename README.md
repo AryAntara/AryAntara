@@ -2,15 +2,16 @@
 
 ![hr](https://user-images.githubusercontent.com/39755201/159233055-3bd55a37-7284-46ad-b759-5ab0c13b3828.png)
 
-### 👨🏻‍💻 About Me
+### 👨 About Me
 
--  👨🏻‍💼 My name is `I Komang Ary Antara`
+-  👨 My name is `I Komang Ary Antara`
 -  🏠 Live in `Bali, Indonesia`
 -  💻 `Information System` student
 -  😄 Pronouns: `He/Him`
 -  📫 Contact me at `ikomangaryantara382@gmail.com`
 -  ⚡ I like Music, Anime, and Movie
 -  🌟 My current tech stack:
+    - `hono js`
     - `Laravel`
     - `Bootsrap`
     - `Jquery`
